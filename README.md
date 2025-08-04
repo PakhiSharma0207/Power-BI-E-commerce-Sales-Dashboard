@@ -79,8 +79,8 @@ This dashboard uses **simulated e-commerce data**, including:
 ## 📬 Contact
 
 **Pakhi Sharma**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com)
+📧 sharmapakhi0204@gmail.com 
+🔗 [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/pakhi-sharma-a21025257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
